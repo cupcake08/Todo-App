@@ -1,1 +1,2 @@
-export './getx_dep.dart';
+export 'task_controller.dart';
+export 'notification_controller.dart';

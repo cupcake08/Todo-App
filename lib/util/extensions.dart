@@ -8,6 +8,6 @@ extension Log on Object {
 
 extension Constraints on BuildContext {
   Size get size => MediaQuery.of(this).size;
-  double get width => size.width;
-  double get height => size.height;
+  double get width_ => size.width;
+  double get height_ => size.height;
 }

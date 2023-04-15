@@ -3,3 +3,9 @@ enum TaskPriority {
   medium,
   low,
 }
+
+enum SortType {
+  creationTime,
+  dueTime,
+  priority,
+}
